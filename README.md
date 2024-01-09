@@ -12,9 +12,7 @@ The application enables users to enter inputs into a inquirer prompt in order to
 - [Usage Information](#Usage-Information)
 - [Installation Process](#Installation-Process)
 - [License](#License)
-- [Author](#Author)
-- [Acknowledgments](#Acknowledgments)
-
+  
 # Overview
 
 # The Challenge:
@@ -56,6 +54,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 # Solution URL:
 https://github.com/johnlott1/challenge-10
+
 johnlott1.github.io/challenge-10
 
 
